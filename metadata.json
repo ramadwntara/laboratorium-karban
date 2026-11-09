@@ -1,0 +1,6 @@
+{
+  "name": "Portal Praktikum Pengujian dan Karakterisasi Bahan",
+  "description": "Portal resmi Praktikum Pengujian dan Karakterisasi Bahan Jurusan Teknik Metalurgi dan Material UPN Veteran Yogyakarta",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
