@@ -29,7 +29,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenCalculator, activeSection 
             <div className="w-8 h-8 rounded-lg bg-blue-950 flex items-center justify-center text-white shadow-xs">
               <FlaskConical className="w-4 h-4 text-amber-400" />
             </div>
-            <span>LAB PKB UPNVYK</span>
+            <span className="not-italic" style={{ fontStyle: 'normal' }}>Laboratorium Pengujian dan Karakterisasi Bahan</span>
           </a>
 
           {/* Zone 2: 4-5 clean single-line nav links */}
